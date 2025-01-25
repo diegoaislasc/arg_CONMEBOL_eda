@@ -9,8 +9,7 @@ This project includes exploratory data analysis (EDA) and hypothesis testing to 
 ## Files and Structure
 
 - **`eda_report.ipynb`**: Jupyter Notebook containing the code for data cleaning, exploratory analysis, and hypothesis testing.
-- **Data Files**: CSV files with match statistics, including data on shotmaps, goals, passes, and other performance metrics. *(Note: Replace this section with the actual data file paths if available).*
-
+- **Data Files**: CSV files with match statistics, including data on shotmaps, goals, passes, and other performance metrics.
 ## Key Findings
 
 ### Shotmap Analysis
